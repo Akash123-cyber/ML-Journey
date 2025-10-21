@@ -59,7 +59,6 @@ This repository acts as both a **personal archive** and a **public learning reso
 | `loan.csv`, `HousingData.csv`, `diabetes.csv` | Practice datasets used across notebooks. |
 | `df_dropParameters.md`, `df.duplicate.md` | Quick reference markdowns for Pandas functions. |
 | `NOTEs.md` | General Data Science notes and reminders. |
-| `Practice.ipynb`, `ques1.ipynb` | Experimental practice notebooks. |
 
 ---
 
