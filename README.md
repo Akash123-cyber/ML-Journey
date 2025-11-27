@@ -116,4 +116,4 @@ Each file is named and ordered numerically (`1EDA...`, `2.1HandlingMissingValues
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/<your-username>/ML-Journey.git
+   git clone https://github.com/Akash123-cyber/ML-Journey.git
