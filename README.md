@@ -309,14 +309,6 @@ When adding notebooks, prefer descriptive filenames, clear explanations, reprodu
 
 ---
 
-## 📄 License
-
-No license is specified here. Unless a license file is added to the repository, others should not assume that they have permission to reuse, redistribute, or modify its contents.
-
-If you intend to make the repository openly reusable, consider adding an appropriate open-source license, such as the MIT License, after deciding how you want others to use your work.
-
----
-
 ## 🔗 Connect
 
 **Repository:** [Akash123-cyber/ML-Journey](https://github.com/Akash123-cyber/ML-Journey)
